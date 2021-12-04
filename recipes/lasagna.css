@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     max-width: 100vw;
     width: 90%;
 }
@@ -22,4 +23,6 @@ h1, h3 {
 ol {
     width: 50%;
     margin: 0 auto;
+=======
+>>>>>>> 2e14fb6c8699353703d5b0b04f787acedbddb686
 }
